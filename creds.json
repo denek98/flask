@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vokent",
+  "private_key_id": "e2bfccb44cd6bcd8d32c20dd368b1a7a1b9e32bf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDMiUpvY6/hJkmc\nGuXCZC2vPXxXR7MebiKZ3lnpAZKeM0sW35dEm5URFpdxla+iib5ZnoVc9Z+mXMXI\nZ+GHnvHpebJtKnOZkO21kNb9ClYXJKYNe6Q9OB1BOfdDI5oK6kZcn10y5FmX/34j\nJsY4anBbFA6dqe+bZYtrvZUsp6J/8IiL3gB3dRWIvTM4X8iRWli2sRyMWjZzzyHC\ny0tEcZmBJt3uWkxz5+UNZ8CcM8m5KZcuGWPFIl5taJwTiABeiKu7HDqbXrji9e6p\nsRh/Az3NApAbebqO4dv200l7w+VNr70sm0SlTglWogmERqQXtA4lBADow504b0ky\n8+9nX7L1AgMBAAECggEAFOKf+yfOucrTEWGdvG/GSnKY08C6hYzxc4zE2YoTkpvi\nOv+xzoukeQ45gJusR4iRK02IiKl8F9y5RXF2Egck5JZMpeED1NZ7r2KO0V/Q0qQn\nYJETgDzOn+5vVSe5fwvVC3gqaBvxGhg4pRY8f14/As3VgDvt/4wq5GGDbf/gE/go\n/MmsTSqY11NbcOOYd60mMeSKLawBN3FKo/DvTDjChq/1kvxLrgKqNaYXO/7FIDC9\nGqUmoo0nE+KdwSamajogOtC4hghS/yzJeu9ivJMCjQrpLd88mJ+UYeS2WprWEOgx\nBzsjRWLHYv2i4NqbThMd9TCe8Y4g8CfYEMXbJ/xvsQKBgQDoBzhAPedgKAb8/287\n6bQe77d1W4IE4JzqBakhL68MVGyfbcm42azaBOCs8izX8F/R+QFR9l/sxFPe9JlT\nWzgWI8aG4IabjJj9gSnwFgW42I1L40GMxpd7ldOT3T67n6yB36pUZcQfDHOi5V2O\nyvr2yLpRkuKfKfyzFRCAv8ST9wKBgQDhqvQOAKw8RD4jsqBQ2jySQjQae28cyR2i\nMUpv92DSDeAuyBscAbwHgHuRDz+r5QZ4HBDUJw8ybJLqk4RYNQZt7GBwS9+SuMMi\nIobw3a031OFdlzphM7PruPFQ9YrMgFOlNiKS4wmAytSpFqrMb9MaaLyYwizLUeYb\nX06MRRPdcwKBgQCUQxDBlAzF163nef0E5qfO4NR0rB1fqnr52tYgu4x6L3QdR5UP\nhiA6S8WZHUJkVVeVHyylx+2xqB4DqH5U0kP7ea7AvrWkrWmRCzjWDexoGg/nfvaC\n0t82/BzvLf+I+lXLwzTeqwxv3pABddibhr5odQkBWP9wPu8XK42ZB3DALwKBgQC1\nEb97kMyiGrulVwlNdp6NWHOIICx6c2DEqDoq9toIETwlLUibQ0UE2/HJ5etX2I9F\nRne2UpTeB8ImWDEjuYAsKTMER8zfZEKmHAAcOjJnjvc5akNchOjDpgRyymIRTpJP\nCM3bADK61YSnG9n16XAAS7Ov+nWIunEg22siH7cdwwKBgQCKOXoAU1yIjB5mzSwo\n7cPZOGbkSudyRJcwr1CpFE+V5R07AXpju2HQAkuNx6yzLBbFHDgWjkINUOVgSZq3\nLqp5m13dCKhO07y0Zu7n3L1E+DJTDOsmRc8qXd7AGvZgU+Ac/22vDDlv42ahjxgs\n9VKVDz+tIhFJi0fjsihAEvJhtA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "james-joyce@vokent.iam.gserviceaccount.com",
+  "client_id": "111859549082836937427",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/james-joyce%40vokent.iam.gserviceaccount.com"
+}
